@@ -16,6 +16,7 @@ Setup the following env variables:
 - ROUTE_APP_ID
 - ROUTE_APP_CODE
 - GMAPS_API_KEY
+- LUIS_URL
 
 ### How to run
 python app.py
